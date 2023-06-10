@@ -1,0 +1,11 @@
+body{
+               background-image: linear-gradient(rgb(6, 54, 61), rgb(10, 17, 13));
+}
+
+.card{
+               background-image: linear-gradient(rgb(6, 7, 6), rgb(14, 124, 60));
+               padding: 30px;
+               margin: 30px;
+               border-radius: 14px;
+               color: wheat;
+}
